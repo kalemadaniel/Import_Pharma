@@ -3,8 +3,7 @@
   Quand j'exécute
   LOAD DATA INFILE 'abc.csv' INTO TABLE abc
 Cette requête ajoute toutes les données à la première colonne.
-Quelle est la syntaxe automatique pour importer des données vers MySQL. Donc la bonne préparation du fichier CSV est très importante ;
-* 
+Quelle est la syntaxe automatique pour importer des données vers MySQL. Donc la bonne préparation du fichier CSV est très importante* 
 
 ## Pour commencer
 
