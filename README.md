@@ -32,7 +32,8 @@ L'application se presente comme suit à l'ouverture. Le mode d'utilisation est i
 ![IMPORT](https://github.com/kalemadaniel/Import_Pharma/assets/51014164/72d8928f-6a76-4f8f-828f-ac7919d5b975)
 
 L'un des etats de sorti se présente comme suit :
-![Uploading 286541312-d1334ed4-a8b4-4150-aaa9-ba98fa170082.jpg…]()
+![286541312-d1334ed4-a8b4-4150-aaa9-ba98fa170082](https://github.com/user-attachments/assets/e0f5cef6-c3f6-4079-874c-29cbf6c6b436)
+
 
 
 _les composants de construction :_
